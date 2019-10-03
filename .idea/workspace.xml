@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00fab84f-e516-4cca-8d51-db3d891863d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/MathEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mulderink1/calsengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CalcEngine/com/mulderink1/calcengine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalcEngine/com/mulderink1/calcengine/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
