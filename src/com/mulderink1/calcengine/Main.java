@@ -1,7 +1,5 @@
 package com.mulderink1.calcengine;
 
-import java.util.concurrent.Callable;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -34,5 +32,19 @@ public class Main {
 
         equationOverload.execute((double)leftInt, rightInt);
         System.out.printf("Int and Casted Double Result = %s \n", equationOverload.getResult());
+
+        System.out.println("\nUsing Inheritance \n");
+
+        CalculateBase[] calculators = {
+                new Divider(100.0d, 50.0d),
+                new Adder(25.0d, 92.0d),
+                new Subtracter(225.0d, 17.0d),
+                new Multiplier(11.0d, 3.0d)
+        };
+
+        for(CalculateBase calculator:calculators) {
+            calculator.calculate();
+            System.out.printf("Result = %s \n", calculator.getResult());
+        }
     }
 }
