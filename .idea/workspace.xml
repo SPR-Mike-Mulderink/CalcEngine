@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00fab84f-e516-4cca-8d51-db3d891863d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/CalculateBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Divider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Subtracter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CalcEngine/com/mulderink1/calcengine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalcEngine/com/mulderink1/calcengine/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CalcEngine/com/mulderink1/calcengine/MathEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CalcEngine/com/mulderink1/calcengine/MathEquation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mulderink1/calcengine/MathEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mulderink1/calcengine/MathEquation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
