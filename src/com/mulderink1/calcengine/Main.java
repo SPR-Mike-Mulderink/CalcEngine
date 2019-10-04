@@ -4,6 +4,21 @@ public class Main {
 
     public static void main(String[] args) {
 
+        String[] statements = {
+                "divide 100.0 50.0",
+                "add 25.0 92.0",
+                "subtract 225.0 17.0",
+                "multiply 11.0 3.0"
+        };
+
+        CalculateHelper helper = new CalculateHelper();
+        System.out.println();
+        for (String statement:statements) {
+            helper.process(statement);
+            System.out.println(helper);
+        }
+        System.out.println();
+
         MathEquation[] equations = new MathEquation[4];
         equations[0] = new MathEquation('d', 100.0d, 50.0d);
         equations[1] = new MathEquation('a', 25.0d, 92.0d);
